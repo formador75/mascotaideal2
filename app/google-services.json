@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404024750275",
+    "firebase_url": "https://mascotaideal-51b60-default-rtdb.firebaseio.com",
+    "project_id": "mascotaideal-51b60",
+    "storage_bucket": "mascotaideal-51b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404024750275:android:ccd80f90dbfb8c4e127276",
+        "android_client_info": {
+          "package_name": "com.miempresa.mascotaideal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404024750275-gfekb8tc890rat6ok2dt796p5cd2e97k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miempresa.mascotaideal",
+            "certificate_hash": "3c946fa4d383232d4da4a2b4a072b9e91082c3a7"
+          }
+        },
+        {
+          "client_id": "404024750275-id00ca99aqtjo1nnudi27lot1o5l06pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDouZNMEiRvm_NrvSOvfNTFxBlyRri4syc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404024750275-id00ca99aqtjo1nnudi27lot1o5l06pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

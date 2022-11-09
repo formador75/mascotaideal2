@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MascotaIdeal</string>
+    <string name="ingrese_su_password">Ingrese su password</string>
+    <string name="ingresar">Ingresar</string>
+</resources>

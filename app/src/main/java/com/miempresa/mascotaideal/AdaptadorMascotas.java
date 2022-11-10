@@ -63,6 +63,7 @@ public class AdaptadorMascotas extends RecyclerView.Adapter<AdaptadorMascotas.Ca
             this.twtamano = itemView.findViewById(R.id.ettamano);
             this.twciudad = itemView.findViewById(R.id.etciudad);
 
+
         }
     }
 

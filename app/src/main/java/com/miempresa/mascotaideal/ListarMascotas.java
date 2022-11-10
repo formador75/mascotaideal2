@@ -63,6 +63,8 @@ public class ListarMascotas extends AppCompatActivity {
                             i.putExtra("ciudad", m.getCiudad());
                             i.putExtra("raza", m.getRaza());
                             i.putExtra("tamano", m.getTamano());
+                            i.putExtra("latitud", m.getLatData());
+                            i.putExtra("longitud", m.getLonData());
                             startActivity(i);
 
                         } )

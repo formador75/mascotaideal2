@@ -142,7 +142,7 @@ public class AgregarMascota extends AppCompatActivity {
         if (!checkPermissions()) {
             requestPermissions();
         } else {
-            // getLastLocation();
+            // ubucacion();
         }
     }
 
